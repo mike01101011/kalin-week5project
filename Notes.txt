@@ -1,0 +1,10 @@
+//SOLID WASTE MANAGEMENT DISTRICTS
+//SOLID WASTE PICKUP SCHEDULE
+//SOLID WASTE DAYTIME CURBSIDE COLLECTION AREAS
+
+//TORONTO: SOLID WASTE MANAGEMENT PROGRAMS *not yet available
+//https://namara.io/#/data_sets/d109d0bf-4f46-469d-9f23-eaee55c352c8
+//http://opendata.toronto.ca/solid.waste/waste.management/classes.xml
+//http://opendata.toronto.ca/solid.waste/waste.management/items.xml
+//http://opendata.toronto.ca/solid.waste/waste.management/descriptions.xml
+//http://opendata.toronto.ca/solid.waste/waste.management/readme.txt
